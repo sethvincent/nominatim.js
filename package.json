@@ -1,0 +1,20 @@
+{
+  "name": "nominatim.js",
+  "version": "0.0.0",
+  "description": "client for openstreetmap nominatim api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "osm",
+    "openstreetmap",
+    "api",
+    "nominatim"
+  ],
+  "author": "seth vincent",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.25.0"
+  }
+}
